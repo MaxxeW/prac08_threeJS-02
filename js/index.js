@@ -30,6 +30,7 @@ var geometry = new THREE.BoxGeometry( 5, 5, 20 );
 var geometry2 = new THREE.BoxGeometry(4, 4, 10);
 var geometry3 = new THREE.IcosahedronGeometry(4, 0);
 var geometry4 = new THREE.PlaneGeometry( 200, 100, 32, 32 );
+var 
 
 
 // MATERIAL:
